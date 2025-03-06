@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 
 public class Task5 {
 	public static void main(String[] args) throws IOException {
-		BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader input = new BufferedReader(new InputStreamReader(System.in)); // create buffered reader
 		String name;
 		
 		System.out.print("Enter your Name: ");
