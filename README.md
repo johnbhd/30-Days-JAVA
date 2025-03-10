@@ -11,7 +11,15 @@ I am documenting my 30-day Java learning journey guided by ChatGPT. My goal is t
    - [User Input Using Scanner](#user-input-using-scanner)
    - [BufferedReader](#bufferedreader)
    - [JOptionPane](#joptionpane)
-
+2. [DAY 2](#day-2)
+   - [Arithmetic Operations](#arithmetic-operations)  
+   - [Find Largest Using Ternary Operator](#find-largest-using-ternary-operator)  
+   - [Check Even or Odd](#check-even-or-odd)  
+   - [Bitwise Operators](#bitwise-operators)  
+   - [Swap Using Bitwise XOR](#swap-using-bitwise-xor)  
+   - [Convert Case](#convert-case)  
+  
+     
 ## **Learning Plan**  
 - **Duration**: 30 Days  
 - **Tasks Per Day**:  
@@ -65,3 +73,26 @@ Stay tuned for my daily updates and new challenges!
 6. ### **JOptionPane**
    - Description: Take user input using JOptionPane and display it.
    **[Click here to view](https://github.com/johnbhd/30-Days-JAVA/blob/Day1/Day1/src/Day1/Task6.java)**
+
+### **[Day 2](https://github.com/johnbhd/30-Days-JAVA/tree/Day2/Day2/src/Day2)**
+
+1. ### **Arithmetic Operations**
+   - Description: I create function with its parameter then return switch. Perform basic mathematical calculations using two numbers.
+   **[Click here to view](https://github.com/johnbhd/30-Days-JAVA/blob/Day2/Day2/src/Day2/Task1.java)**
+2. ### **Find Largest Using Ternary Operator**
+   - Description: Use the ternary operator to determine the maximum of three numbers.
+   **[Click here to view](https://github.com/johnbhd/30-Days-JAVA/blob/Day2/Day2/src/Day2/Task2.java)**
+3. ### **Check Even or Odd**
+   - Description: Use the modulus operator (%) to check whether a number is even or odd.
+   **[Click here to view](https://github.com/johnbhd/30-Days-JAVA/blob/Day2/Day2/src/Day2/Task3.java)**
+4. ### **Bitwise Operators**
+   - Description: Bitwise operations in Java manipulate individual bits of integer values, enabling efficient processing of binary data, low-level optimizations, and performance improvements in computations.
+   **[Click here to view](https://github.com/johnbhd/30-Days-JAVA/blob/Day2/Day2/src/Day2/Task4.java)**
+5. ### **Swap Using Bitwise XOR**
+   - Description: Swap two numbers without using a temporary variable by leveraging the XOR bitwise operator.
+   **[Click here to view](https://github.com/johnbhd/30-Days-JAVA/blob/Day2/Day2/src/Day2/Task5.java)**
+6. ### **Convert Case**
+   - Description: I create function with its parameter then return switch 
+   **[Click here to view](https://github.com/johnbhd/30-Days-JAVA/blob/Day2/Day2/src/Day2/Task6.java)**
+
+     
